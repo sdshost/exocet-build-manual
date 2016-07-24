@@ -59,7 +59,7 @@ Anyone finding information here that they feel is incorrect, insufficent or they
 | 9 | [Rear Pod](chapters/rear-pod.md) | 1.5 |
 | 10 | [Fuel Tank standard](chapters/fuel-tank-b.md) | 0.5 |
 | 11 | [Rear Cycle guard mounts](chapters/rear-cycle-guards.md) | 2 |
-| 11 | [Front Cycle guard mounts](chapters/front-cycle-guards.md) | 3 |
+| 11 | *NOT AVAILABLE* [Front Cycle guard mounts](chapters/front-cycle-guards.md) | 3 |
 | 12 | [Side Panels](chapters/side-panels.md) | 1 |
 |  | __**Paining / Powdercoat time**__ | |
 | 13 | *NOT AVAILABLE* [Rear Bulk Head](chapters/) | ? |
