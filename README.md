@@ -1,6 +1,6 @@
 Exocet build manual
 ===
-
+![Rollerskate](images/Exocet-Mazda-Miata-PPF.jpg)
 ### Preface
 This 'manual' is provided as a example build, content is taken from experience of other builds, no guarantees or liability can be taken from this uild documentation.
 Anyone finding information here that they feel is incorrect, insufficent or they simply know a better way, you are encouraged to fork, change and open a pull request. Collaboration will be a important part of this document.
