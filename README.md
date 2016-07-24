@@ -6,6 +6,8 @@ This 'manual' is provided as a example build of the New Zealand [Exocet](exocet.
 
 Any information from official [LVVTA](http://www.lvvta.org.nz/), Yout certifier or [NZ Hobby Car technical manual](http://www.lvvta.org.nz/documents.html#hctm) should take priority over anything specied here.
 
+**H&S** All tools should be used in, and all relevant PPE should be worn in accordance with their respective manuals.
+
 Anyone finding information here that they feel is incorrect, insufficent or they simply know a better way, you are encouraged to fork, change and open a pull request. Collaboration will be a important part of this document.
 
 ## Build & Cert process overview
@@ -34,8 +36,14 @@ Anyone finding information here that they feel is incorrect, insufficent or they
 
 ## Additional Recomended tools
  - Air Rivet gun
- - Engine hoist, stops/chains for lifting
  - Welder(100amp), 2mm + 3mm rods.
+ - Engine hoist, stops/chains for lifting
+ - Cutoff wheel for ceramics (used on GRP)
+ - 
+## Additional parts required 
+ - Mild steel flat bar
+  - 30x3mm - 2meters
+  - 40x5mm - 1 meter
 
 ## Main Stages
 | No | Stage | Estimate time (hrs) |
