@@ -39,7 +39,7 @@ Anyone finding information here that they feel is incorrect, insufficent or they
  - Welder(100amp), 2mm + 3mm rods.
  - Engine hoist, stops/chains for lifting
  - Cutoff wheel for ceramics (used on GRP)
- - 
+
 ## Additional parts required 
  - Mild steel flat bar
   - 30x3mm - 2meters
