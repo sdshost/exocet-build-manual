@@ -58,8 +58,13 @@ Anyone finding information here that they feel is incorrect, insufficent or they
 | 8 | [Fuel tank flip (optional)](chapters/fuel-tank-b.md) | 1 |
 | 9 | [Rear Pod](chapters/rear-pod.md) | 1.5 |
 | 10 | [Fuel Tank standard](chapters/fuel-tank-b.md) | 0.5 |
-| 11 | [Side Panels](chapters/side-panels.md) | 1 |
-| 12 | [Rear Bulk Head]() | ? |
+| 11 | [Rear Cycle guard mounts](chapters/rear-cycle-guards.md) | 2 |
+| 11 | [Front Cycle guard mounts](chapters/front-cycle-guards.md) | 3 |
+| 12 | [Side Panels](chapters/side-panels.md) | 1 |
+|  | __**Paining / Powdercoat time**__ | |
+| 13 | *NOT AVAILABLE* [Rear Bulk Head](chapters/) | ? |
+| 14 | *NOT AVAILABLE* [Mount Nose Cone](chapters/) | ? |
+| 15 | *NOT AVAILABLE* [Bonnet Mounting](chapters/) | ? |
 
 ## Minor Steps
 These steps can be used to fill in time between paint drying/certs etc, there is no specifi order for these.
@@ -70,5 +75,5 @@ These steps can be used to fill in time between paint drying/certs etc, there is
 | [Radiator Mounts](chapters/rad-mounts.md) | 1 |
 | [Strip Wiring](chapters/strip-wiring.md) (optional) | 6 |
 | [Pod lights assembly](chapters/pod-lights.md) (if using Exocet lights) | 3 |
-| /* [Wiring Megasquirt](chapters/) (optional upgrade ECU) | 3 |
+| *NOT AVAILABLE* [Wiring Megasquirt](chapters/) (optional upgrade ECU) | 3 |
 
