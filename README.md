@@ -2,8 +2,40 @@ Exocet build manual
 ===
 ![Rollerskate](images/Exocet-Mazda-Miata-PPF.jpg)
 ### Preface
-This 'manual' is provided as a example build, content is taken from experience of other builds, no guarantees or liability can be taken from this uild documentation.
+This 'manual' is provided as a example build of the New Zealand [Exocet](exocet.nz), content is taken from experience of other builds, no guarantees or liability can be taken from this build documentation, thus should be trated as a example only.
+
+Any information from official [LVVTA](http://www.lvvta.org.nz/), Yout certifier or [NZ Hobby Car technical manual](http://www.lvvta.org.nz/documents.html#hctm) should take priority over anything specied here.
+
 Anyone finding information here that they feel is incorrect, insufficent or they simply know a better way, you are encouraged to fork, change and open a pull request. Collaboration will be a important part of this document.
+
+## Build & Cert process overview
+ 1. Purchase your kit
+ 2. Find a certifier and tell them what you are upto, book in for first check.
+ 3. Get as much done pre coating the chassis (certifier required to inspect chassis pre coating)
+ 4. Take what ever you have to the certifier, discuss any concerns you have, take note of what he has to say. (aprx $200)
+ 5. Strip the car and send for powder coating/painting.
+ 6. Re-assemble everything, as the Exocet is fairly exposed, no intermediate inspection is normally required.
+ 7. Take for final cert. This will reuire leaving the car for a few days. (aprx($1,500)
+
+## Required Tools
+ - Metric socket set with various extensions, 8-24mm
+ - Full metric spanners
+ - Grinder - Cutting, grinding and wire brush.
+ - Screwdrivers
+ - 4 axel stands
+ - Metal files; flat, round, triangle and half round
+ - Sandpaper 140, 200 grit.
+ - Trolley Jack
+ - Rivet gun
+ - Drill - 6, 8 & 10mm HSS bits + cutting fluid
+ - Punch
+ - Pry bars
+ - Steel rule + marker
+
+## Additional Recomended tools
+ - Air Rivet gun
+ - Engine hoist, stops/chains for lifting
+ - Welder(100amp), 2mm + 3mm rods.
 
 ## Main Stages
 | No | Stage | Estimate time (hrs) |
