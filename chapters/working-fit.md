@@ -6,3 +6,6 @@ a.	We found that the steering shaft sat too low in the hole with no further adju
 2.	Ensure adequate spacing around master cylinders.
 3.	Re fit the transmission tunnel - you will need to cut out a hole for the shift leaver. Use the shift leaver gator you will be using on the finished car to work out how big the hole can be. You will find the part of the gear lever housing protrudes above the trans tunnel line, make sure you allow a bit of movement from the rubber mounting, we cut a hole with 10mm clearance around the shift leaver.
 4.	Mark where the throttle cable will penetrate the firewall, drill a 13mm hole and file to square, enlarge as required to allow the cable to snap in to place.
+
+![Steering adjustment](../images/20160609_160132.jpg)
+![Throttle Cable Hole](../images/20160723_174217.jpg)
