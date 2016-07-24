@@ -17,3 +17,9 @@ There's no simple instructions for this section, use your creativity and take it
 12.	Using the large sheet of aluminium supplied or a floor plate cut off fill in the gap above the transmission tunnel, use a 85degree fold to slip under the front of the transmission tunnel. 
 13.	Drill rivet holes at 100mm centres for all plates. 
 14.	Remove transmission tunnel.
+
+![Drivers Footwell](../images/20160604_122440.jpg)
+![Passenger Footwell](../images/20160604_131243.jpg)
+![Middle Panel](../images/20160604_133142.jpg)
+![All installed](../images/20160613_201301.jpg)
+![Transmission Tunnel](../images/20160607_075621.jpg)

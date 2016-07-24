@@ -16,3 +16,9 @@ Rear Pod
 12.	Remove pod, cut a card template for the angle these rear brackets need to be.
 13.	Hold the bracket on the tube on your line at the correct angle and weld. Note, this is 1.6mm tube wall, dont overheat it!
 14.	Repeat for the other side, making sure this one is equal distance in as per the previous.
+
+![Welded Tabs](../images/20160723_170721.jpg)
+![Welded tabs](../images/20160723_170730.jpg)
+![Side Fitment](../images/20160710_180856.jpg)
+![Bolt cutout](../images/20160710_180914.jpg)
+![Fitted](../images/20160710_180837.jpg)

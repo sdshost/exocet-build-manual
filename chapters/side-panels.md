@@ -9,3 +9,6 @@ Side Panels
 6.	draw a line around the chassis on the plastic 
 7.	Remove and cut the final line. 
 8.	Repaeat for the other side, note, they are both slightly different so dont make a exact copy
+
+![Side Panel Fitted](../images/20160710_091353.jpg)
+![Offcut](../images/20160710_084411.jpg)
