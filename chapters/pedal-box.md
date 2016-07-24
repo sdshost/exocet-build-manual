@@ -15,3 +15,6 @@ Pedal Box & steering
 12.	Check all these bolts are tight and everything is sitting nicely with all pedals having full movement.
 13.	Mark the plate above the pedals where the M10x25 bolts with nylocs and washers can go through.
 14.	Punch & drill holes for top of pedal boxes.
+
+![Side View](../images/20160607_075430.jpg)
+![Top View](../images/20160607_075418.jpg)
