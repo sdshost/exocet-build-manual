@@ -62,8 +62,13 @@ Anyone finding information here that they feel is incorrect, insufficent or they
 | 12 | [Rear Bulk Head]() | ? |
 
 ## Minor Steps
-| No | Step | Estimated time (hrs) |
-| --- | --- | --- |
-| 1 | [Remove Wiper leaver](chapters/remove-wiper-leaver.md) | 0.5 |
-| 2 | [Strip Wiring (optional)]() | ? |
+These steps can be used to fill in time between paint drying/certs etc, there is no specifi order for these.
+
+| Step | Estimated time (hrs) |
+| --- | --- |
+| [Remove Wiper leaver](chapters/remove-wiper-leaver.md) | 0.5 |
+| [Radiator Mounts](chapters/rad-mounts.md) | 1 |
+| [Strip Wiring](chapters/strip-wiring.md) (optional) | 6 |
+| [Pod lights assembly](chapters/pod-lights.md) (if using Exocet lights) | 3 |
+| /* [Wiring Megasquirt](chapters/) (optional upgrade ECU) | 3 |
 
