@@ -12,7 +12,7 @@ Anyone finding information here that they feel is incorrect, insufficent or they
 
 ## Build & Cert process overview
  1. Purchase your kit
- 2. Find a certifier and tell them what you are upto, book in for first check.
+ 2. Find a certifier and tell them what you are upto, book in for first check. [Certifer List](http://www.lvvta.org.nz/documents/suplementary_information/CertifierList-Website.pdf) You will need a 1D rated certifier.
  3. Get as much done pre coating the chassis (certifier required to inspect chassis pre coating)
  4. Take what ever you have to the certifier, discuss any concerns you have, take note of what he has to say. (aprx $200)
  5. Strip the car and send for powder coating/painting.
