@@ -8,3 +8,5 @@ Fuel tank, standard
 5.	Mark the locations of the bolts & remove the tank
 6.	Punch and drill the holes.
 7.	Remove the nylocs and refit check the bolts line up
+
+![Tank holes](../images/20160609_150117.jpg)
