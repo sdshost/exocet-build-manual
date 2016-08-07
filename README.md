@@ -58,13 +58,14 @@ Anyone finding information here that they feel is incorrect, insufficent or they
 | 8 | [Fuel tank flip (optional)](chapters/fuel-tank-b.md) | 1 |
 | 9 | [Rear Pod](chapters/rear-pod.md) | 1.5 |
 | 10 | [Fuel Tank standard](chapters/fuel-tank-b.md) | 0.5 |
-| 11 | [Rear Cycle guard mounts](chapters/rear-cycle-guards.md) | 2 |
-| 11 | [Front Cycle guard mounts](chapters/front-cycle-guards.md) | 3 |
-| 12 | [Side Panels](chapters/side-panels.md) | 1 |
+| 11 | [Prop shaft safety hoop](chapters/prop-shaft-safety-hoop.md) | 1 |
+| 12 | [Rear Cycle guard mounts](chapters/rear-cycle-guards.md) | 2 |
+| 13 | [Front Cycle guard mounts](chapters/front-cycle-guards.md) | 2 |
+| 14 | [Side Panels](chapters/side-panels.md) | 1 |
 |  | __**Paining / Powdercoat time**__ | |
-| 13 | *NOT AVAILABLE* [Rear Bulk Head](chapters/) | ? |
-| 14 | *NOT AVAILABLE* [Mount Nose Cone](chapters/) | ? |
-| 15 | *NOT AVAILABLE* [Bonnet Mounting](chapters/) | ? |
+| 15 | *NOT AVAILABLE* [Rear Bulk Head](chapters/) | ? |
+| 16 | *NOT AVAILABLE* [Mount Nose Cone](chapters/) | ? |
+| 17 | *NOT AVAILABLE* [Bonnet Mounting](chapters/) | ? |
 
 ## Minor Steps
 These steps can be used to fill in time between paint drying/certs etc, there is no specifi order for these.
