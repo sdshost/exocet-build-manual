@@ -17,3 +17,6 @@ Front Cycle Guards
 13. Repeat for other side.
 
 **Tip:** The rear part of the guard mount should have the mounting plate on a more horizonal angle than the mount bar itself.
+
+![Stripped Front Hub](../images/Front_Hub.jpg)
+![Front hub with guard](../images/Front_Hub_wGuard.jpg)
