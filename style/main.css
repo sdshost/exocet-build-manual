@@ -1,0 +1,19 @@
+  body { padding: 0,150,0,150; }
+  h1 { font-size: 50px; }
+  body { font: 20px Helvetica, sans-serif; color: #333; }
+  article { display: block; text-align: left; width: 950px; margin: 0 auto; }
+  #forkme_banner {
+	  display: block;
+	  position: absolute;
+	  top:0;
+	  right: 10px;
+	  z-index: 10;
+	  padding: 10px 50px 10px 10px;
+	  color: #fff;
+	  background:url('coreImgs/github.png')  #0090ff no-repeat 95% 50%;
+	  font-weight: 700;
+	  text-decoration: none;
+	  box-shadow: 0 0 10px rgba(0,0,0,.5);
+	  border-bottom-left-radius: 2px;
+	  border-bottom-right-radius: 2px;
+	}
