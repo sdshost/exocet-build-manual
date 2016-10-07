@@ -21,10 +21,14 @@
         <tr><td>Blue</td><td>2</td><td>Yes</td></tr>
        </table>
        
-       <strong>Required Fuses</strong>
+       <strong>Required Fuses (small box)</strong>
       <table>
         <tr><th>Item</th><th>Amperage</th><th>Color In</th><th>Color Out</th></tr>
-        
+        <tr><th>Lights?</th><th>10a</th><th>White/Red</th><th>White/Green (red)</th></tr>
+        <tr><th>Lights?</th><th>10a</th><th>White/Red</th><th>Black/Red (red)</th></tr>
+        <tr><th>?</th><th>10a</th><th>White/Black</th><th>Red/Black (blue)</th></tr>
+        <tr><th>?</th><th>10a</th><th>Blue</th><th>Blue/Yellow (red)</th></tr>
+        <tr><th>Engine/Fuel pump</th><th>15a</th><th>Blue</th><th>Black/White (red)</th></tr>
        </table>
        
 		</article>
